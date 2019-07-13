@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux & macOS |
 |:--------:|:---------:|:-----------------:|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/conan-cpp-taskflow%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/conan-cpp-taskflow%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-conan-cpp-taskflow?svg=true)](https://ci.appveyor.com/project/bincrafters/conan-conan-cpp-taskflow)|[![Build Status](https://travis-ci.com/bincrafters/conan-conan-cpp-taskflow.svg)](https://travis-ci.com/bincrafters/conan-conan-cpp-taskflow)|
+|[![Download](https://api.bintray.com/packages/Hopobcn/public-conan/conan-cpp-taskflow%3Abincrafters/images/download.svg) ](https://bintray.com/Hopobcn/public-conan/conan-cpp-taskflow%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/Hopobcn/conan-cpp-taskflow?svg=true)](https://ci.appveyor.com/project/Hopobcn/conan-cpp-taskflow)|[![Build Status](https://travis-ci.org/Hopobcn/conan-cpp-taskflow.svg)](https://travis-ci.com/Hopobcn/conan-cpp-taskflow)|
 
 ## Conan Information
 
