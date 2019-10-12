@@ -41,6 +41,6 @@ class CppTaskflowConan(ConanFile):
         self.info.header_only()
 
     def package_info(self):
-        self.cpp_info.includedirs = ["include"]
-        if not self.settings.os == "Windows":
-            self.cpp_info.cxxflags = ["-pthread"]
+        if self.settings.os == "Linux":
+            self.cpp_info.libs.append("pthread")
+        
